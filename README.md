@@ -145,9 +145,6 @@ jupyter notebook RAG_Project.ipynb
 **Amit Kushwaha**
 B.Tech CSE @ IIIT Ranchi
 AI | ML | LLMs | RAG Systems | LangChain
-🔗 [GitHub](https://github.com/AmitS1009) • [LinkedIn]((https://www.linkedin.com/in/amit-kushwaha-99a9a7282/))
+🔗 [GitHub](https://github.com/AmitS1009) • [LinkedIn](https://www.linkedin.com/in/amit-kushwaha-99a9a7282/)
 
 ---
-
-Would you like me to also generate a **`requirements.txt`** file for this project (auto-detected from your code)?
-It’ll make your repo look even more professional.
