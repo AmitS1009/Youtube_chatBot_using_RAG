@@ -1,4 +1,4 @@
-# 🧠 YouTube Transcript RAG Assistant
+# 🧠 YouTube Assistant
 
 > **A full Retrieval-Augmented Generation (RAG) system** that converts YouTube video transcripts into searchable knowledge and enables intelligent Q&A using **LangChain**, **ChatGroq (LLaMA-3.3-70B)**, and **FAISS**.
 
